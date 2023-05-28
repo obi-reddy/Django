@@ -1,6 +1,6 @@
 # Django Python
 
-Django is a high-level web framework written in Python that follows the Model-View-Controller (MVC) architectural pattern. It provides a set of tools and libraries that simplify the development of web applications. Django's primary goal is to enable developers to build complex and scalable web applications quickly and efficiently.
+Django is a high-level web framework written in Python that follows the Model-View-Controller (MVC) architectural pattern. It provides a set of tools and libraries that simplify the development of web applications. Django's primary goal is to enable developers to build complex and scalable web applications quickly and efficiently. 
 
 Here are some key features and benefits of Django:
 
